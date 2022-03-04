@@ -6,13 +6,13 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 
 ### Types of Design Patterns
 
-+ Creational
++ [Creational](./creational/README.md)
     * **Builder**
     * **Prototype**
     * **Singleton**
     * **Abstract Factory**
 
-+ Structural
++ [Structural](./structural/README.md)
     * Adapter
     * Bridge
     * Composite
@@ -21,7 +21,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * Flyweight
     * **Proxy**
 
-+ Behavioral
++ [Behavioral](./behavioral/README.md)
     * Interpreter
     * Template
     * Chain of Responsibility
