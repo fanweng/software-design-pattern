@@ -7,7 +7,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 ### Types of Design Patterns
 
 + [Creational](./creational/README.md)
-    * **Builder**
+    * [**Builder**](./creational/builder-pattern.md)
     * **Prototype**
     * **Singleton**
     * **Abstract Factory**
@@ -53,3 +53,5 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 # Reference
 
 [1] "Software Design Pattern: Best Practices for Software Developer" by educative.io
+
+[2] Design Patterns by refactoring.guru
