@@ -9,7 +9,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 + [Creational](./creational/README.md)
     * [**Builder**](./creational/builder-pattern.md)
     * **Prototype**
-    * **Singleton**
+    * [**Singleton**](./creational/singleton-pattern.md)
     * [**Abstract Factory**](./creational/abstract-factory-pattern.md)
 
 + [Structural](./structural/README.md)
