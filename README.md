@@ -10,6 +10,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [**Builder**](./creational/builder-pattern.md)
     * [**Prototype**](./creational/prototype-pattern.md)
     * [**Singleton**](./creational/singleton-pattern.md)
+    * [**Factory**](./creational/factory-pattern.md)
     * [**Abstract Factory**](./creational/abstract-factory-pattern.md)
 
 + [Structural](./structural/README.md)
