@@ -20,7 +20,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * **Decorator**
     * Facade
     * Flyweight
-    * **Proxy**
+    * [**Proxy**](./structural/proxy-pattern.md)
 
 + [Behavioral](./behavioral/README.md)
     * Interpreter
