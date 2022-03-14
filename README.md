@@ -17,7 +17,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * Adapter
     * Bridge
     * Composite
-    * **Decorator**
+    * [**Decorator**](./structural/decorator-pattern.md)
     * Facade
     * Flyweight
     * [**Proxy**](./structural/proxy-pattern.md)
