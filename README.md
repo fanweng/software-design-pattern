@@ -27,7 +27,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * Template
     * Chain of Responsibility
     * Command
-    * **Iterator**
+    * [**Iterator**](./behavioral/iterator-pattern.md)
     * Mediator
     * Memento
     * **Observer**
