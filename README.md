@@ -30,7 +30,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [**Iterator**](./behavioral/iterator-pattern.md)
     * Mediator
     * Memento
-    * **Observer**
+    * [**Observer**](./behavioral/observer-pattern.md))
     * State
     * Strategy
     * **Visitor**
