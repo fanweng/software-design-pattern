@@ -33,7 +33,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [**Observer**](./behavioral/observer-pattern.md))
     * State
     * Strategy
-    * **Visitor**
+    * [**Visitor**](./behavioral/visitor-pattern.md)
 
 ### General Guidelines for OOD
 
