@@ -14,7 +14,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [**Abstract Factory**](./creational/abstract-factory-pattern.md)
 
 + [Structural](./structural/README.md)
-    * Adapter
+    * [Adapter](./structural/adapter-pattern.md)
     * Bridge
     * Composite
     * [**Decorator**](./structural/decorator-pattern.md)
@@ -30,7 +30,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [**Iterator**](./behavioral/iterator-pattern.md)
     * Mediator
     * Memento
-    * [**Observer**](./behavioral/observer-pattern.md))
+    * [**Observer**](./behavioral/observer-pattern.md)
     * State
     * Strategy
     * [**Visitor**](./behavioral/visitor-pattern.md)
