@@ -16,7 +16,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 + [Structural](./structural/README.md)
     * [Adapter](./structural/adapter-pattern.md)
     * [Bridge](./structural/bridge-pattern.md)
-    * Composite
+    * [Composite](./structural/composite-pattern.md)
     * [**Decorator**](./structural/decorator-pattern.md)
     * Facade
     * Flyweight
