@@ -23,7 +23,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [**Proxy**](./structural/proxy-pattern.md)
 
 + [Behavioral](./behavioral/README.md)
-    * Interpreter
+    * [Interpreter](./behavioral/interpreter-pattern.md)
     * Template
     * [Chain of Responsibility](./behavioral/chain-of-responsibility-pattern.md)
     * Command
