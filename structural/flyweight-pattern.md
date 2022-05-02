@@ -1,4 +1,4 @@
-# Flyweight
+# Flyweight Design Pattern
 
 > Flyweight pattern shares state among a large number of fine-grained objects for efficiency
 

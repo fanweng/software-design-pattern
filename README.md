@@ -19,13 +19,13 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [Composite](./structural/composite-pattern.md)
     * [**Decorator**](./structural/decorator-pattern.md)
     * [Facade](./structural/facade-pattern.md)
-    * [Flyweight](./structural/flyweight.md)
+    * [Flyweight](./structural/flyweight-pattern.md)
     * [**Proxy**](./structural/proxy-pattern.md)
 
 + [Behavioral](./behavioral/README.md)
     * Interpreter
     * Template
-    * Chain of Responsibility
+    * [Chain of Responsibility](./behavioral/chain-of-responsibility-pattern.md)
     * Command
     * [**Iterator**](./behavioral/iterator-pattern.md)
     * Mediator
