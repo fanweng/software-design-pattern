@@ -24,7 +24,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 
 + [Behavioral](./behavioral/README.md)
     * [Interpreter](./behavioral/interpreter-pattern.md)
-    * Template
+    * [Template](./behavioral/template-pattern.md)
     * [Chain of Responsibility](./behavioral/chain-of-responsibility-pattern.md)
     * [Command](./behavioral/command-pattern.md)
     * [**Iterator**](./behavioral/iterator-pattern.md)
