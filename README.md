@@ -28,7 +28,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [Chain of Responsibility](./behavioral/chain-of-responsibility-pattern.md)
     * [Command](./behavioral/command-pattern.md)
     * [**Iterator**](./behavioral/iterator-pattern.md)
-    * Mediator
+    * [Mediator](./behavioral/mediator-pattern.md)
     * Memento
     * [**Observer**](./behavioral/observer-pattern.md)
     * State
