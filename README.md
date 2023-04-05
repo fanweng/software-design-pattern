@@ -4,7 +4,9 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 
 ![Design Patter Relationships](./res/design-pattern-relationships.png)
 
-### Types of Design Patterns
+
+
+## Types of Design Patterns
 
 + [Creational](./creational/README.md)
     * [**Builder**](./creational/builder-pattern.md)
@@ -14,7 +16,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [**Abstract Factory**](./creational/abstract-factory-pattern.md)
 
 + [Structural](./structural/README.md)
-    * [Adapter](./structural/adapter-pattern.md)
+    * [**Adapter**](./structural/adapter-pattern.md)
     * [Bridge](./structural/bridge-pattern.md)
     * [Composite](./structural/composite-pattern.md)
     * [**Decorator**](./structural/decorator-pattern.md)
@@ -35,7 +37,9 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
     * [Strategy](./behavioral/strategy-pattern.md)
     * [**Visitor**](./behavioral/visitor-pattern.md)
 
-### General Guidelines for OOD
+
+
+## General Guidelines for OOD
 
 + Separate out parts of code that are reusable
 
@@ -50,6 +54,47 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 + Ideally, class design should inhibit modification and encourage extension
 
 + Using patterns in daily work, allows exchanging entire implementation concepts with other developers via shared pattern vocabulary
+
+
+
+## SOLID + 2 Principles
+
+### **S**ingle Responsibility Principle
+
+A class should have only one single responsibility
+
+### **O**pen Close Principle
+
+Open for extension
+
+Close for modification
+
+### **L**iskov Substitution Principle
+
+
+### **I**nterface Segregation Principle
+
+Multiple specific interfaces are better than one general purpose interface.
+
+### **D**ependency Inversion Principle
+
+Depend upon abstraction, don't depend upon concretions
+
+Implement an interface...
+
+### Least Knowledge Principle / Law of Demeter
+
++ each unit should have only limited knowledge about other units that are closely related
++ each unit should only interact with its immediate friends
++ don't interact with strangers
+
+### Composite/Aggregate Reuse Principle
+
++ try to use composite/aggregate instead of inheriting to achieve the purpose of reuse
+  + use some existing objects in a new object to make it a part of the new object
+  + the new object reuses existing functions by delegating to these objects held internally
+
+
 
 # Reference
 
