@@ -65,22 +65,28 @@ A class should have only one single responsibility
 
 ### **O**pen Close Principle
 
-Open for extension
-
-Close for modification
+A class should be extendable without modifying the class itself:
++ open for extension
++ closed for modification
 
 ### **L**iskov Substitution Principle
 
+Every subclass or derived class should be substitutable for their base/parent class.
 
 ### **I**nterface Segregation Principle
 
-Multiple specific interfaces are better than one general purpose interface.
+A client should never be forced to:
++ implement an interface that it doesn't use
++ depend on methods they do not use
+
+> Multiple specific interfaces are better than one general purpose interface.
 
 ### **D**ependency Inversion Principle
 
-Depend upon abstraction, don't depend upon concretions
++ Entities must depend upon abstractions, not on concretions
++ High-level module should depend on abstractions, not on the low-level module
 
-Implement an interface...
+> So, implement an interface...
 
 ### Least Knowledge Principle / Law of Demeter
 
