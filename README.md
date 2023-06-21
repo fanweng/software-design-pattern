@@ -6,7 +6,7 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 
 
 
-## Types of Design Patterns
+## 1. Types of Design Patterns
 
 + [Creational](./creational/README.md)
     * [**Builder**](./creational/builder-pattern.md)
@@ -41,71 +41,36 @@ Tech problems sometimes have well-defined solutions, they are flexible, modular 
 
 
 
-## General Guidelines for OOD
+## 2. Four Principles for OOP
 
-+ Separate out parts of code that are reusable
+[Check out OOP notes HERE!](./ood/README.md)
 
-+ Always code to an interface and not against a concrete implementation
-
-+ Encapsulate behaviors as much as possible
-
-+ Favor composition over inheritance. *Inheritance can result in explosion of classes and also sometimes the base class is fitted with new functionality that isn't applicable to some of its derived classes*
-
-+ Interacting components within a system should be as loosely coupled as possible
-
-+ Ideally, class design should inhibit modification and encourage extension
-
-+ Using patterns in daily work, allows exchanging entire implementation concepts with other developers via shared pattern vocabulary
++ Encapsulation
++ Abstraction
++ Inheritance
++ Polymorphism
 
 
 
-## SOLID + 2 Principles
+## 3. SOLID + Two Principles for OOD
 
-### **S**ingle Responsibility Principle
+[Check out OOD notes HERE!](./ood/README.md)
 
-A class should have only one single responsibility
++ Single Responsibility Principle
++ Open Closed Principle
++ Liskov Substitution Principle
++ Interface Segregation Principle
++ Dependency Inversion Principle
 
-### **O**pen Close Principle
-
-A class should be extendable without modifying the class itself:
-+ open for extension
-+ closed for modification
-
-### **L**iskov Substitution Principle
-
-Every subclass or derived class should be substitutable for their base/parent class.
-
-### **I**nterface Segregation Principle
-
-A client should never be forced to:
-+ implement an interface that it doesn't use
-+ depend on methods they do not use
-
-> Multiple specific interfaces are better than one general purpose interface.
-
-### **D**ependency Inversion Principle
-
-+ Entities must depend upon abstractions, not on concretions
-+ High-level module should depend on abstractions, not on the low-level module
-
-> So, implement an interface...
-
-### Least Knowledge Principle / Law of Demeter
-
-+ each unit should have only limited knowledge about other units that are closely related
-+ each unit should only interact with its immediate friends
-+ don't interact with strangers
-
-### Composite/Aggregate Reuse Principle
-
-+ try to use composite/aggregate instead of inheriting to achieve the purpose of reuse
-  + use some existing objects in a new object to make it a part of the new object
-  + the new object reuses existing functions by delegating to these objects held internally
++ Least Knowledge Principle
++ Composite/Aggregate Reuse Principle
 
 
 
-# Reference
+# References
 
 [1] "Software Design Pattern: Best Practices for Software Developer" by educative.io
 
-[2] Design Patterns by refactoring.guru
+[2] "Grokking the Object Oriented Design Interview" by educative.io
+
+[3] Design Patterns by refactoring.guru
