@@ -9,4 +9,16 @@ Use case diagram describes a set of actions (**use cases**) that a system should
     + relationship of actors to the essential processes
     + relationships among different user cases
 
+## Typical Relationships
+
++ Association
+  + between actor and use case
++ Generalization
+  + of an actor
+  + of a use case
++ Extend
+  + between two use cases
++ Include
+  + between two use cases
+
 ![Use case diagram for online shopping system](../res/use-case-diagram-sample.png)

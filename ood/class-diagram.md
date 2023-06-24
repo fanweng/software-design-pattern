@@ -16,6 +16,9 @@ Different types of relationships between classes:
     * two classes need to communicate with each other
     * *bi-directional*, *uni-directional*
 
++ **Inheritance**
+    * a derived class extends the base class
+
 + **Multiplicity**
     * indicates how many instances of a class participate in the relationship
     * e.g. `FlightInstance` have `2` `Pilot` instances while a `Pilot` instance can have many `*` `FlightInstance` instances
