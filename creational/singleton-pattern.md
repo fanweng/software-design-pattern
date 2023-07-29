@@ -22,7 +22,7 @@ So only the members of class can access the private constructor, and other objec
 
 2. Create a static creation method that acts as a constrcutor
 
-#### Simple Singleton
+### Simple Singleton
 
 ```c++
 class Singleton {
@@ -75,7 +75,7 @@ int main() {
 }
 ```
 
-#### Thread-safe Singleton
+### Thread-safe Singleton
 
 ```c++
 class Singleton {
@@ -110,6 +110,10 @@ Singleton* Singleton::getInstance(const std::string& value) {
     return pInstance_;
 }
 ```
+
+### More Efficient Implementations
+
+[fanweng/cpp-programming](https://github.com/fanweng/cpp-programming/blob/master/knowledge-base/concurrency/examples/singleton.cpp)
 
 ## Caveats
 
